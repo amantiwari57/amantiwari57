@@ -1,6 +1,6 @@
 # Hi there! 👋
 
-I'm [Your Name], a Fullstack Developer who loves coding and occasionally dives into competitive programming. Here's a bit about me:
+I'm Aman Tiwari, a Fullstack Developer who loves coding and occasionally dives into competitive programming. Here's a bit about me:
 
 ## Tech Stack
 
