@@ -20,9 +20,9 @@ I'm Aman Tiwari, a Fullstack Developer who loves coding and occasionally dives i
   
 ## Projects
 
-- [Appkidukan](https://aapkidukan2-0.vercel.app/): Used Postgres, Nodejs, expressjs, React and JWT tomake a full stack ecommerce app.
+- [Appkidukan](/aapkidukan2.0): Used Postgres, Nodejs, expressjs, React and JWT tomake a full stack ecommerce app.
 
-- [Aman Tiwari Portfolio](amantiwariportfolio.vercel.app):used React Tailwind and Framer motion to make a Portfolio .
+- [Aman Tiwari Portfolio]():used React Tailwind and Framer motion to make a Portfolio .
 
 ## Competitive Programming
 
