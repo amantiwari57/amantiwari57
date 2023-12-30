@@ -1,7 +1,9 @@
 <h1 align="center">Hi 👋, I'm Aman Tiwari</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 
-<p align="left"> <a href="https://twitter.com/@amantiwari57" target="blank"><img src="https://img.shields.io/twitter/follow/@amantiwari57?logo=twitter&style=for-the-badge" alt="@amantiwari57" /></a> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=mrcoder57&label=Profile%20views&color=0e75b6&style=flat" alt="mrcoder57" /> </p>
+
+<p align="left"> <a href="https://twitter.com/amantiwari57" target="blank"><img src="https://img.shields.io/twitter/follow/amantiwari57?logo=twitter&style=for-the-badge" alt="amantiwari57" /></a> </p>
 
 - 🔭 I’m currently working on **React Native**
 
@@ -19,7 +21,9 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/@amantiwari57" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="@amantiwari57" height="30" width="40" /></a>
+<a href="https://twitter.com/amantiwari57" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="amantiwari57" height="30" width="40" /></a>
+<a href="https://instagram.com/@amantwri" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="@amantwri" height="30" width="40" /></a>
+<a href="https://www.leetcode.com/amantwri57" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="amantwri57" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
