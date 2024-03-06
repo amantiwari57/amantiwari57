@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on **React Native**
 
-- 🌱 I’m currently learning **React Native, RUST, Advanced Backend**
+- 🌱 I’m currently learning **React Native, SOLIDITY, Advanced Backend**
 
 - 👯 I’m looking to collaborate on **Cool Fullstack Projects**
 
