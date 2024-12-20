@@ -5,9 +5,9 @@
 
 <p align="left"> <a href="https://twitter.com/amantiwari57" target="blank"><img src="https://img.shields.io/twitter/follow/amantiwari57?logo=twitter&style=for-the-badge" alt="amantiwari57" /></a> </p>
 
-- 🔭 I’m currently working on **React Native**
+- 🔭 I’m currently working on **OpenAI,Gemini**
 
-- 🌱 I’m currently learning **React Native, SOLIDITY, Advanced Backend**
+- 🌱 I’m currently learning **AI**
 
 - 👯 I’m looking to collaborate on **Cool Fullstack Projects**
 
