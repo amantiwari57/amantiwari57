@@ -5,15 +5,11 @@
 
 <p align="left"> <a href="https://twitter.com/amantiwari57" target="blank"><img src="https://img.shields.io/twitter/follow/amantiwari57?logo=twitter&style=for-the-badge" alt="amantiwari57" /></a> </p>
 
-- 🔭 I’m currently working on **OpenAI,Gemini**
+- 🔭 I’m currently working on **Dunno**
 
 - 🌱 I’m currently learning **AI**
 
 - 👯 I’m looking to collaborate on **Cool Fullstack Projects**
-
-- 🤝 I’m looking for help with [Musicai and Ceddit](https://github.com/mrcoder57/musicai)
-
-- 👨‍💻 All of my projects are available at [https://amantiwari.vercel.app/](https://amantiwari.vercel.app/)
 
 - 💬 Ask me about **react, Node and Javascript**
 
