@@ -69,4 +69,4 @@
 📊 <strong>Performance:</strong> Load balancing, caching strategies, database optimization
 </p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=mrcoder57&show_icons=true&locale=en&layout=compact" alt="mrcoder57" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=amantiwari57&show_icons=true&locale=en&layout=compact" alt="mrcoder57" /></p>
